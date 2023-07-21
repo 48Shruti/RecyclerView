@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">RecyclerView</string>
+    <string name="name">Title</string>
+    <string name="roll">Description</string>
+    <string name="click">Click</string>
+    <string name="update">Update</string>
+    <string name="delete">Delete</string>
+</resources>
